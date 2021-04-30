@@ -1,2 +1,1 @@
-# Faster-rcnn2
-fpn+rfpn+faster-rcnn
+# Faster-rcnn2 colab运行手册
